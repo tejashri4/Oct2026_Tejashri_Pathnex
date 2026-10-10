@@ -1,0 +1,10 @@
+#Today's  task
+3 Hours - Online session in the morning
+2 hours - Create EC2 instace and connect to windows.
+1 Hours - AWS
+1 Hours - Git
+
+Tomorrow's Task
+Will learn Docker
+
+
